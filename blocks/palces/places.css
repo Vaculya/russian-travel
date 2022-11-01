@@ -1,4 +1,4 @@
-.places{
+.places {
   max-width: 984px;
   margin: 0 auto;
   padding-bottom: 92px;
@@ -6,29 +6,30 @@
   gap: 80px;
 }
 
-@media screen and (max-width: 1024px){
-  .places{
+@media screen and (max-width: 1024px) {
+  .places {
     max-width: 928px;
     padding: 0 24px 92px 24px;
   }
 }
-@media screen and (max-width: 768px){
-  .places{
+
+@media screen and (max-width: 768px) {
+  .places {
     max-width: 720px;
     padding: 0 24px 88px 24px;
-    page-break-after: 73px;
+    gap: 73px;
   }
 }
 
-@media screen and (max-width:720px){
-  .places{
-    padding: 0 0 88px 0;
-  }
-}
-
-@media screen and (max-width:320px){
-  .places{
+@media screen and (max-width:650px) {
+  .places {
     gap: 50px;
-    padding-bottom: 64px;
+    padding: 0 0 90px 0;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .places {
+    padding-bottom: 66px;
   }
 }

@@ -1,4 +1,4 @@
-.place__link{
+.place__link {
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -6,11 +6,11 @@
   color: #fff;
 }
 
-.place__link:hover{
+.place__link:hover {
   opacity: .8;
   transition: .3 ease;
   -webkit-transition: .3 ease;
-  -moz-transition: .3 ease;
+  -moz-transitiАon: .3 ease;
   -ms-transition: .3 ease;
   -o-transition: .3 ease;
 }

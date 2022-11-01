@@ -1,4 +1,4 @@
-.footer{
+.footer {
   max-width: 1184px;
   margin: 0 auto;
   padding: 0 48px 24px 48px;
@@ -7,21 +7,17 @@
   align-items: center;
 }
 
-@media screen and (max-width: 1024px){
-  .footer{
+@media screen and (max-width: 1024px) {
+  .footer {
     max-width: 928px;
     padding: 0 24px 24px 24px;
   }
 }
 
-@media screen and (max-width: 768px){
-  .footer{
+@media screen and (max-width: 720px) {
+  .footer {
     max-width: 720px;
-  }
-}
-
-@media screen and (max-width: 720px){
-  .footer{
+    padding: 0 16px 24px 16px;
     flex-direction: column;
     align-items: flex-start;
   }

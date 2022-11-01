@@ -1,16 +1,16 @@
-.lead__figure{
+.lead__figure {
   max-width: 984px;
   margin: 0;
 }
 
-@media screen and (max-width: 1024px){
-  .lead__figure{
+@media screen and (max-width: 1024px) {
+  .lead__figure {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width: 768px){
-  .lead__figure{
+@media screen and (max-width: 768px) {
+  .lead__figure {
     max-width: 100%;
   }
 }
