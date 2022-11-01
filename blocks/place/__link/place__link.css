@@ -9,8 +9,4 @@
 .place__link:hover {
   opacity: .8;
   transition: .3 ease;
-  -webkit-transition: .3 ease;
-  -moz-transitiАon: .3 ease;
-  -ms-transition: .3 ease;
-  -o-transition: .3 ease;
 }
