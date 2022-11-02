@@ -9,7 +9,6 @@
   column-gap: 18px;
 }
 
-
 @media screen and (max-width:720px) {
   .footer__links {
     flex-direction: column;

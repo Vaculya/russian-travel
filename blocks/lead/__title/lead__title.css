@@ -17,21 +17,19 @@
   }
 }
 
-@media screen and (max-width:606px) {
+@media screen and (max-width:620px) {
   .lead__title {
     font-size: 68px;
     line-height: 74px;
   }
 }
 
-@media screen and (max-width:507px) {
+@media screen and (max-width:525px) {
   .lead__title {
     font-size: 43px;
     line-height: 48px;
   }
 }
-
-
 
 @media screen and (max-width:370px) {
   .lead__title {

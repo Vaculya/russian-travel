@@ -7,14 +7,9 @@
   line-height: 18px;
 }
 
-
 .footer__link:hover {
   opacity: .8;
   transition: .3s ease;
-  -webkit-transition: .3s ease;
-  -moz-transition: .3s ease;
-  -ms-transition: .3s ease;
-  -o-transition: .3s ease;
 }
 
 @media screen and (max-width:720px) {

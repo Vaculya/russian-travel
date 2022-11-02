@@ -3,8 +3,6 @@
   margin-bottom: 48px;
 }
 
-
-
 @media screen and (max-width: 650px) {
   .place__website {
     grid-column: 1;
